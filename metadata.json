@@ -1,0 +1,6 @@
+{
+  "name": "AquaGlow Auto Spa & Detailing Lounge",
+  "description": "Professional touchless car wash, ceramic coating, and precision detailing in Nairobi. Browse services in KES, book online, track live bay status, or try our 3D simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
