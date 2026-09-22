@@ -140,11 +140,11 @@ export const WebsiteFooter: React.FC<WebsiteFooterProps> = ({
             <div className="space-y-2">
               <div className="flex items-center gap-2">
                 <Phone className="w-3.5 h-3.5 text-cyan-400" />
-                <span>+254 700 123 456</span>
+                <span>+254 746 145 712</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-3.5 h-3.5 text-cyan-400" />
-                <span>concierge@aquaglow.co.ke</span>
+                <span>bannermwangi0@gmail.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <Clock className="w-3.5 h-3.5 text-cyan-400" />
